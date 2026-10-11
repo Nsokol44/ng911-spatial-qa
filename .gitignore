@@ -1,0 +1,13 @@
+# Input data is never committed — bring your own layers (see README).
+data/
+real/
+*.geojson
+*.zip
+
+# Local run outputs (the committed reference stats live in results/real-stats.json)
+figures/
+results/stats.json
+results/exception_report.csv
+
+__pycache__/
+*.pyc

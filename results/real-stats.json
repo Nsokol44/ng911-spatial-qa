@@ -1,0 +1,34 @@
+{
+  "n_addresses": 26792,
+  "n_segments": 5365,
+  "n_named_segments": 5352,
+  "parity": 3676,
+  "parity_pct": 13.72,
+  "dup_groups": 5,
+  "dup_extra": 5,
+  "outliers": 5384,
+  "outlier_pct": 20.1,
+  "range_fail": 237,
+  "range_pct": 0.88,
+  "sensitivity": {
+    "parity_r35": 6968,
+    "parity_r45": 3676,
+    "parity_r55": 1800,
+    "outlier_t60": 5384,
+    "outlier_t90": 3097,
+    "outlier_t120": 1954
+  },
+  "seam_within_50m": 5,
+  "boundary_km": 13.4,
+  "after": {
+    "parity": 3218,
+    "outliers": 1283,
+    "dup_extra": 0,
+    "range_fail": 758,
+    "n": 26787
+  },
+  "total_exceptions": 9302,
+  "exception_pct": 34.72,
+  "after_total": 5259,
+  "after_pct": 19.63
+}

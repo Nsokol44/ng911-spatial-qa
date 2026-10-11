@@ -1,0 +1,6 @@
+# NG911 spatial QA pipeline — dependencies (Python 3.10+)
+# Versions verified in the reference environment.
+matplotlib==3.11.2
+numpy==2.5.3
+shapely==2.1.2
+pyshp==2.3.1
